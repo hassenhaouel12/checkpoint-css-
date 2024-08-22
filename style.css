@@ -1,5 +1,7 @@
 body {
   background-image: url(https://foolishdeveloper.com/wp-content/uploads/2024/01/image-113-1024x649.png);
+  font-family: "Roboto", system-ui;
+}
 
 h1 {
   color: rgb(0, 177, 247);
@@ -50,7 +52,5 @@ button {
 }
 
 .first {
-color: rgb(255, 255, 255);
-
-
+  color: rgb(255, 255, 255);
 }
